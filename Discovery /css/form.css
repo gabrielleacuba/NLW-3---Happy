@@ -120,3 +120,8 @@ fieldset + fieldset {
 
   cursor: pointer;
 }
+
+.new-upload + .new-upload{
+  margin-top:2.4rem
+}
+
